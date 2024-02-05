@@ -6,7 +6,7 @@
 - 💬 Ask me about Java and Android
 - 📫 How to reach me: mohitfaujdar150@gmail.com
 - 😄 Pronouns: He, Him
-- ⚡ Fun fact: I am 6ft tall guy.
+- ⚡ Fun fact: I am above 6ft tall guy.
 
 
 <a href="https://github.com/aryanjha256">
